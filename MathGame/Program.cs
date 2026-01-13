@@ -42,7 +42,7 @@ string UserChoices()
     Console.WriteLine("4. Division");
 
     string choice = Console.ReadLine();
-    return choice;
+    
 
     if (choice.Trim() == "1")
     {
@@ -69,6 +69,7 @@ string UserChoices()
     {
         Console.WriteLine(" Invalid Choice");
     }
+    return choice;
 }
 //creating Choices in switch break cases
 // selection 1. - Addition so userInput1 + userInput2
