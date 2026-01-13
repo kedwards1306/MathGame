@@ -1,0 +1,15 @@
+/Users/alex/repos/MathGame/MathGame/bin/Debug/net10.0/MathGame
+/Users/alex/repos/MathGame/MathGame/bin/Debug/net10.0/MathGame.deps.json
+/Users/alex/repos/MathGame/MathGame/bin/Debug/net10.0/MathGame.runtimeconfig.json
+/Users/alex/repos/MathGame/MathGame/bin/Debug/net10.0/MathGame.dll
+/Users/alex/repos/MathGame/MathGame/bin/Debug/net10.0/MathGame.pdb
+/Users/alex/repos/MathGame/MathGame/obj/Debug/net10.0/MathGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/repos/MathGame/MathGame/obj/Debug/net10.0/MathGame.AssemblyInfoInputs.cache
+/Users/alex/repos/MathGame/MathGame/obj/Debug/net10.0/MathGame.AssemblyInfo.cs
+/Users/alex/repos/MathGame/MathGame/obj/Debug/net10.0/MathGame.csproj.CoreCompileInputs.cache
+/Users/alex/repos/MathGame/MathGame/obj/Debug/net10.0/MathGame.sourcelink.json
+/Users/alex/repos/MathGame/MathGame/obj/Debug/net10.0/MathGame.dll
+/Users/alex/repos/MathGame/MathGame/obj/Debug/net10.0/refint/MathGame.dll
+/Users/alex/repos/MathGame/MathGame/obj/Debug/net10.0/MathGame.pdb
+/Users/alex/repos/MathGame/MathGame/obj/Debug/net10.0/MathGame.genruntimeconfig.cache
+/Users/alex/repos/MathGame/MathGame/obj/Debug/net10.0/ref/MathGame.dll
